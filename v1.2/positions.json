@@ -1,0 +1,35 @@
+{
+  "Lékař": [
+    "Lékař", "Lékař ambulance", "Primář / vedoucí lékař",
+    "Zástupce primáře / vedoucího lékaře", "Vedoucí lékař",
+    "Lékař - zástupce primáře", "Lékařský ředitel"
+  ],
+  "Všeobecná sestra": [
+    "Všeobecná sestra", "Staniční sestra",
+    "Vrchní sestra", "Všeobecná sestra / zdravot. záchranář"
+  ],
+  "Praktická sestra": ["Praktická sestra"],
+  "Sanitáři": [
+    "Sanitář", "Ošetřovatel", "Pomocná síla",
+    "Zdravotnický záchranář"
+  ],
+  "Fyzioterapie": [
+    "Fyzioterapeut", "Úsekový fyzioterapeut", "Vedoucí fyzioterapeut",
+    "Pomocný pracovník fyzioterie", "Pomocný pracovní fyzioterapie",
+    "Ergoterapeut"
+  ],
+  "Administrativa": [
+    "Recepční", "Administrativní pracovník", "Administrativní asistent",
+    "Administrátor ve zdravotnictví", "HR Specialista/náborář",
+    "Referent nákupu", "Supervizor zákaznického centra",
+    "Projektový manažer UDI", "Referent přijímací kanceláře", "Concierge",
+    "Operátor zákaznického kontaktního centra", "Účetní",
+    "Jednatel společnosti"
+  ],
+  "Gastro": ["Obsluha kavárny", "Obsluha kavárny – vozík"],
+  "Údržba a technika": [
+    "Údržbář", "Ředitel pro ošetřovatelskou péči",
+    "IT technik", "Vedoucí IT", "IT projektový specialista",
+    "Biomedicínský inženýr/Auditor"
+  ]
+}

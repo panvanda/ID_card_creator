@@ -1,0 +1,25 @@
+{
+  "prefix": [
+    "",
+    "Bc.",
+    "Mgr.",
+    "Ing.",
+    "MUDr.",
+    "MDDr.",
+    "RNDr.",
+    "PhDr.",
+    "JUDr.",
+    "MVDr.",
+    "doc.",
+    "prof."
+  ],
+  "suffix": [
+    "",
+    "DiS.",
+    "Ph.D.",
+    "MBA",
+    "LL.M.",
+    "Th.D.",
+    "CSc."
+  ]
+}

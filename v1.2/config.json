@@ -1,0 +1,7 @@
+{
+  "source_drive": "D:/DCIM/100JLCAM",
+  "output_crop": "N:/HR/HR/Foto_zamestnancu",
+  "output_idcards": "N:/HR/HR/Foto_zamestnancu/hotove_ID_karty",
+  "template_dir": "N:/HR/HR/Foto_zamestnancu/ID_card_tool/templates",
+  "font_path": "N:/HR/HR/Foto_zamestnancu/ID_card_tool/font/helvetica_hr.otf"
+}
